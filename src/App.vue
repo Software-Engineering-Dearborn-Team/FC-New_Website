@@ -1,3 +1,8 @@
+<script setup>
+import { RouterLink, RouterView } from 'vue-router'
+import HelloWorld from './components/HelloWorld.vue'
+</script>
+
 <template>
   <div id="app">
     <img alt="Farmer's Connect logo" src="./assets/logo.png">
