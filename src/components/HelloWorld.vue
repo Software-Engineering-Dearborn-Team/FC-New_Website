@@ -2,10 +2,17 @@ import <AboutUs class="vue"></AboutUs>
 <template>
   <div class="hello">
     <h1>Welcome to Farmer's Connect</h1>
-    <p>
-      Welcome to Farmer's Connect, check out your local area for farmers here.
-    </p>
-    <br><br>
+    <center> 
+        <h3 class = "c" style= "font-family: verdana">
+          Welcome to Farmer's Connect, the online platform that connects local farmers with their customers in the community. 
+          Our goal is to make it easy for customers to find and support their local farmers. 
+          With Farmer's Connect, you can discover local farmers in your area, learn about their products and services, and connect with them directly. 
+          Our platform is designed to be user-friendly and accessible to everyone, regardless of their technical ability. 
+          We believe that by supporting local farmers, we can help create a more sustainable and equitable food system for everyone. 
+          So whether you're looking for fresh produce, dairy products, or other locally-sourced goods, Farmer's Connect is here to help you connect with the farmers in your community.
+        </h3>
+      </center>
+    <br>
           <!-- Bilal menu stuff-->
           <div class="wrapper">
             <!--nav content 
@@ -65,6 +72,21 @@ a {
 }
 </style>
 
+<style> 
+  .image-spacing { 
+    margin-right: 20px; 
+  } 
+
+h3{
+  text-align: center;
+  width: 1100px;
+  border: 1px solid white;
+}
+  h3.c{
+  word-break: break-word;
+}
+</style>
+
 <style>
 .top-section {
   position: relative;
@@ -90,10 +112,10 @@ a {
 }
 
 .logo {
-  max-width: 50%;
-  max-height: 50%;
-  max-width: 50%;
-  max-height: 50%;
+  max-width: 30%;
+  max-height: 30%;
+  max-width: 30%;
+  max-height: 30%;
   
 }
 
@@ -150,3 +172,6 @@ a:hover {
   background-color:blue ; /* Change this to your desired background color */
   width: 500%;
   float: right;}
+
+
+  
