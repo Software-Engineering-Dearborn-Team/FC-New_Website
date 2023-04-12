@@ -1,3 +1,4 @@
+import <AboutUs class="vue"></AboutUs>
 <template>
   <div class="hello">
     <h1>Welcome to Farmer's Connect</h1>
@@ -45,6 +46,7 @@ export default {
 };
 </script>
 
+
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
@@ -88,6 +90,8 @@ a {
 }
 
 .logo {
+  max-width: 50%;
+  max-height: 50%;
   max-width: 50%;
   max-height: 50%;
   
