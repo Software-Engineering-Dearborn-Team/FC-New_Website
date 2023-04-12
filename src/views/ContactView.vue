@@ -1,7 +1,10 @@
 <template>
     <div class="contact">
         <body>
+          
+          <a href="mailto:farmersconnectonline@gmail.com" >Send email</a>
       <h1>Contact us! </h1>
+      <iframe src="https://google.com" height = "300"></iframe>
       <h3><i>We'd <strong>love</strong> to hear from you! </i> </h3>
         <p align="left"><strong>At Farmer's Connect,</strong> we are always looking for ways to improve our platform and better serve our users.</p>
             <p align="left"> <strong>If you have any questions, comments, or suggestions,</strong> please don't hesitate to contact us.</p>
