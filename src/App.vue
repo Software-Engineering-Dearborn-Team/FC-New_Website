@@ -40,7 +40,7 @@ nav {
 
 nav a {
   font-weight: bold;
-  color: white;
+  color: rgb(34, 152, 237);
  
 }
 
