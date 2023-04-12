@@ -1,7 +1,12 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
+<<<<<<< HEAD
 
+=======
+import LoginView from '../views/Login.vue'
+import SignUpVue from '../views/Signup.vue'
+>>>>>>> 446a3a249187578d3bad49e6037ceff82074dcf6
 
 Vue.use(VueRouter)
 
