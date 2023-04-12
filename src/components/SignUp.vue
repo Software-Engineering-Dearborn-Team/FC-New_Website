@@ -80,6 +80,12 @@ a {
     <label for="email"><b>Last Name</b></label>
     <input type="text" placeholder="Enter Last Name" name="lName" id="lName" required>
 
+<<<<<<< HEAD
+=======
+    <label for="email"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" id="uname" required>
+
+>>>>>>> 3343b1f4852984dab1dcaa21bc56a1d0ada69005
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
