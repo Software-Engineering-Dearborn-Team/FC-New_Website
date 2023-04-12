@@ -124,12 +124,6 @@ a:hover {
 }
 
 </style>
-<<<<<<< Updated upstream
-=======
-
- 
-
->>>>>>> Stashed changes
   <RouterView />
 
 
