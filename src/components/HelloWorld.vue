@@ -84,10 +84,7 @@ a {
   justify-content: center;
   align-items: center;
   height: 26vh;
-  
-  
-  
-  
+ 
 }
 
 .logo {
@@ -96,18 +93,12 @@ a {
   
 }
 
-
-
-
 nav {
   background-color: #3a3a3a;
-  height: 50px;
-  margin: 0 auto;
-  right: -100px;
-  left: -60%;
-  margin-top: 200px;
-  width: 100%;
-  max-width: 960px; /* adjust this value based on your design */
+  height: 40px;
+  margin-top: 0px;
+  font-size: large;
+  max-width: 2000px; /* adjust this value based on your design */
 }
 ul {
   list-style-type: none;
@@ -117,6 +108,7 @@ ul {
 
 li {
   float: left;
+
 }
 
 a {
@@ -132,15 +124,6 @@ a:hover {
 }
 
 </style>
-
-
-
-
-
-
-
-
-
   <RouterView />
 
 
@@ -150,7 +133,6 @@ a:hover {
   flex-direction: column;
   height: 100vh;
 }
-
 
 .left-panel {
   flex: -1;
