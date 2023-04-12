@@ -4,21 +4,22 @@
     <p>
       Welcome to Farmer's Connect, check out your local area for farmers here.
     </p>
+    <br><br>
           <!-- Bilal menu stuff-->
           <div class="wrapper">
+            <!--nav content 
     <nav>
-      <!-- nav content -->
+      
       <ul>
-        <li><a href="#">Home</a></li>
-     <router-link to='/about'>About Us</router-link>
-      <li><a href="#">Contact Us</a></li>
-      <li><a href="#">Login</a></li>
-      <li><a href="#">Farmer's Near Me</a></li>
-      <li>     <a href="https://github.com/Software-Engineering-Dearborn-Team"
-        target="_blank">Github</a></li>
+        <li> <router-link to="/">Home</router-link> </li>
+          <li><router-link to="/about">About Us</router-link></li>
+          <li><router-link to="/login">Log In</router-link>"</li>
+          <li><router-link to="/signup">Sign Up</router-link></li>
+
+      
 </ul>
     </nav>
-
+           -->
     <div class="content">
       <div class="container">
         <div class="left-panel">
@@ -87,8 +88,8 @@ a {
 }
 
 .logo {
-  max-width: 100%;
-  max-height: 100%;
+  max-width: 50%;
+  max-height: 50%;
   
 }
 
