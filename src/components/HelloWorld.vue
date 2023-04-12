@@ -4,19 +4,22 @@
     <p>
       Welcome to Farmer's Connect, check out your local area for farmers here.
     </p>
+    <br><br>
           <!-- Bilal menu stuff-->
           <div class="wrapper">
+            <!--nav content 
     <nav>
-      <!-- nav content -->
+      
       <ul>
         <li> <router-link to="/">Home</router-link> </li>
           <li><router-link to="/about">About Us</router-link></li>
           <li><router-link to="/login">Log In</router-link>"</li>
           <li><router-link to="/signup">Sign Up</router-link></li>
 
+      
 </ul>
     </nav>
-
+           -->
     <div class="content">
       <div class="container">
         <div class="left-panel">
