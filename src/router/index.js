@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import HomeView from '../views/HomeView.vue'
-import LoginView from '../components/LogIn.vue'
-import SignUpVue from '../components/SignUp.vue'
+import LoginView from '../views/login.vue'
+import SignUpVue from '../views/signup.vue'
 
 Vue.use(VueRouter)
 
