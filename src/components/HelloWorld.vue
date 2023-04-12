@@ -10,7 +10,7 @@
       <!-- nav content -->
       <ul>
         <li><a href="#">Home</a></li>
-     <li><a href="#">About Us</a></li>
+     <router-link to='/about'>About Us</router-link>
       <li><a href="#">Contact Us</a></li>
       <li><a href="#">Login</a></li>
       <li><a href="#">Farmer's Near Me</a></li>
