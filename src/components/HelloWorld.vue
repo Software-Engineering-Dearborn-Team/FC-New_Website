@@ -12,34 +12,22 @@ import <AboutUs class="vue"></AboutUs>
           So whether you're looking for fresh produce, dairy products, or other locally-sourced goods, Farmer's Connect is here to help you connect with the farmers in your community.
         </h3>
       </center>
-    <br>
-          <!-- Bilal menu stuff-->
-          <div class="wrapper">
-            <!--nav content 
-    <nav>
-      
-      <ul>
-        <li> <router-link to="/">Home</router-link> </li>
-          <li><router-link to="/about">About Us</router-link></li>
-          <li><router-link to="/login">Log In</router-link>"</li>
-          <li><router-link to="/signup">Sign Up</router-link></li>
+    <br><br>
 
-      
-</ul>
-    </nav>
-           -->
-    <div class="content">
-      <div class="container">
-        <div class="left-panel">
+
+          <!-- Bilal menu stuff-->
+    <!-- <div class="wrapper">
+      <div class="content">
+        <div class="container">
+          <div class="left-panel"> -->
           <!-- Left panel content -->
-        </div>
-        <div class="right-panel">
+          <!-- </div>
+          <div class="right-panel"> -->
           <!-- Right panel content -->
+          <!-- </div>
         </div>
       </div>
-    </div>
-  </div>
-    
+    </div> -->
   </div>
 </template>
 
@@ -102,7 +90,7 @@ h3{
   
 }
 .logo-container {
-  margin-bottom: 400%;
+  margin-bottom: 200%;
  right: -100px;
   display: flex;
   justify-content: center;

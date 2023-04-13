@@ -1,6 +1,6 @@
 <template>
     <header>
-      <img alt="Vue logo" class="logo" src="@/assets/logo.png" width="125" height="125" />
+      <img alt="Vue logo" class="logo" src="@/assets/logo.png" width="100" height="100" />
     
     <div class="wrapper">
       <HelloWorld msg="Farmer's Connect" />
@@ -15,7 +15,7 @@
           <li><router-link to="/contact">Contact Us</router-link></li>
           <li><router-link to="/login">Login</router-link></li>
           <li><router-link to="/signUp">Sign Up</router-link></li>
-          <li><router-link to="/UserProfile">User Profile</router-link></li>
+          <!-- <li><router-link to="/UserProfile">User Profile</router-link></li> -->
         </ul>
     </nav>
 
