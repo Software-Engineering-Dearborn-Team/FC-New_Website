@@ -15,7 +15,6 @@
           <li><router-link to="/contact">Contact Us</router-link></li>
           <li><router-link to="/login">Login</router-link></li>
           <li><router-link to="/signUp">Sign Up</router-link></li>
-          <li><router-link to="/UserProfile">User Profile</router-link></li>
         </ul>
     </nav>
 
