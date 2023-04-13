@@ -1,5 +1,5 @@
 <template>
-    <div class="profile">
+    <div class="RegisterView">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     
@@ -8,7 +8,7 @@
     <div class="card">
         <br>
       <img src="../assets/profile.jpg"  alt="Sam" style="width:50%">
-      <h1>Sam Jose</h1>
+      <h1>Yunis Alharethi</h1>
       <p class="title">Buissness Name</p>
       <p>School of Choice</p>
       <div style="margin: 24px 0;">
@@ -16,12 +16,11 @@
         <a href="https://linkedin.com/"><i class="fa fa-linkedin"></i></a>  
         <a href="https://facebook.com/"><i class="fa fa-facebook"></i></a>
       </div>
-      <p><a href="mailto:farmersconnectonline@gmail.com" >Contact</a></p>
+      <p><a href="mailto:joealharethi@gmail.com" >Contact</a></p>
     </div>
-    
     </div>
     </template>
-    
+
     <style>
     .card {
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);

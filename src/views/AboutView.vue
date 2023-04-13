@@ -21,7 +21,9 @@
       <img alt="Farm pic"  src="../assets/farm2.jpeg" height=38% width =37% class="image-spacing">
       <img alt="Farm pic"  src="../assets/farm.png" height=40% width =40% >
   </div> 
+
 </template>
+
 
 <style> 
   .image-spacing { 
@@ -37,3 +39,6 @@ h3{
   word-break: break-word;
 }
 </style>
+
+
+
