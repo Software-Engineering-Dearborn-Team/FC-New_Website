@@ -14,17 +14,18 @@ npm install <pkg>
 
 ### Compiles and hot-reloads for development
 ```
-firebase serve:
+firebase serve
  for local server off machine 
 
-firebase emulators:
+firebase emulators
     start to emulate Hosting and your backend project resources at a locally hosted URL.
 
- firebase hosting:channel:
+ firebase hosting:channel
     deploy to create and deploy to a temporary preview channel.  
 
-
+**IMPORTANT**
 firebase deploy  
+_____________________
 UPLOADS THE LATEST SNAPSHOT to our servers. If you need to undo the deploy, you can roll back with just one click in the Firebase console. 
 
 ### Compiles and minifies for production
