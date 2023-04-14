@@ -16,7 +16,7 @@
         <label for="psw"><b>Password</b></label>
         <input type="password" placeholder="Enter Password" name="psw" required>
             
-        <button type="submit"><router-link to="/RegisterView"> LogIn</router-link></button>
+        <button type="submit"><router-link to="/RegisterView"> Login</router-link></button>
 
       </div>
     
